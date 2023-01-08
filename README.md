@@ -1,2 +1,3 @@
 # NBA_Analysis
-WIP on various NBA analysis
+
+Project used as a DAX Sandbox. About NBA players stats.
