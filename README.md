@@ -1,3 +1,4 @@
-# NBA_Analysis
+# NBA_Sandbox
 
-Project used as a DAX Sandbox. About NBA players stats.
+Project used as a DAX Sandbox. Data about NBA players stats.
+
